@@ -1,0 +1,51 @@
+product_id,name,category,price,sku
+1,Wireless Headphones,Electronics,99.99,WH001
+2,T-Shirt,Clothing,19.99,TS001
+3,Coffee Maker,Home,49.99,CM001
+4,Action Figure,Toys,14.99,AF001
+5,Smartphone,Electronics,599.99,SP001
+6,Jeans,Clothing,39.99,JN001
+7,Blender,Home,29.99,BL001
+8,Puzzle,Toys,9.99,PZ001
+9,Laptop,Electronics,899.99,LT001
+10,Dress,Clothing,49.99,DR001
+11,Microwave,Home,79.99,MW001
+12,Board Game,Toys,24.99,BG001
+13,Tablet,Electronics,299.99,TB001
+14,Jacket,Clothing,69.99,JK001
+15,Vacuum Cleaner,Home,149.99,VC001
+16,Doll,Toys,19.99,DL001
+17,Smart Watch,Electronics,199.99,SW001
+18,Sweater,Clothing,34.99,SW001
+19,Toaster,Home,24.99,TO001
+20,Building Blocks,Toys,29.99,BB001
+21,Earbuds,Electronics,79.99,EB001
+22,Shorts,Clothing,24.99,SH001
+23,Air Fryer,Home,89.99,AF002
+24,RC Car,Toys,39.99,RC001
+25,Monitor,Electronics,249.99,MN001
+26,Hat,Clothing,14.99,HT001
+27,Coffee Table,Home,199.99,CT001
+28,Stuffed Animal,Toys,12.99,SA001
+29,Keyboard,Electronics,49.99,KB001
+30,Socks,Clothing,9.99,SK001
+31,Lamp,Home,39.99,LP001
+32,Card Game,Toys,7.99,CG001
+33,Mouse,Electronics,19.99,MS001
+34,Shoes,Clothing,59.99,SH002
+35,Bookshelf,Home,129.99,BS001
+36,LEGO Set,Toys,49.99,LE001
+37,Router,Electronics,79.99,RT001
+38,Belt,Clothing,19.99,BT001
+39,Dishwasher,Home,399.99,DW001
+40,Yo-Yo,Toys,4.99,YY001
+41,Printer,Electronics,149.99,PR001
+42,Scarf,Clothing,24.99,SC001
+43,Oven,Home,299.99,OV001
+44,Drone,Toys,99.99,DR002
+45,Webcam,Electronics,39.99,WC001
+46,Gloves,Clothing,14.99,GL001
+47,Chair,Home,89.99,CH001
+48,Puppet,Toys,16.99,PP001
+49,Hard Drive,Electronics,69.99,HD001
+50,Pants,Clothing,44.99,PT001
