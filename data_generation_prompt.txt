@@ -1,0 +1,15 @@
+Prompt for Generating Synthetic E-commerce Data:
+
+"Generate synthetic e-commerce data for an online retail platform. Create data for the following entities:
+
+1. Customers: Generate 1000 customer records with fields like customer_id, name, email, address, phone, registration_date.
+
+2. Products: Generate 500 product records with fields like product_id, name, category, price, description, stock_quantity, supplier_id.
+
+3. Orders: Generate 2000 order records with fields like order_id, customer_id, order_date, total_amount, status.
+
+4. Order_Items: Generate 4000 order item records with fields like order_item_id, order_id, product_id, quantity, unit_price.
+
+5. Suppliers: Generate 50 supplier records with fields like supplier_id, name, contact_email, contact_phone, address.
+
+Ensure the data is realistic and interconnected (e.g., customer_ids in orders should exist in customers table). Use Python with libraries like Faker for generating realistic data. Output the data as CSV files: customers.csv, products.csv, orders.csv, order_items.csv, suppliers.csv."

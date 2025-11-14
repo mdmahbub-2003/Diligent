@@ -1,0 +1,19 @@
+Prompt for Ingesting Data into SQLite Database:
+
+"Write a Python script to ingest the synthetic e-commerce data from CSV files into a SQLite database. The script should:
+
+1. Create a SQLite database named 'ecommerce.db'.
+
+2. Create tables for customers, products, orders, order_items, and suppliers with appropriate data types and constraints (e.g., primary keys, foreign keys).
+
+3. Read data from the CSV files: customers.csv, products.csv, orders.csv, order_items.csv, suppliers.csv.
+
+4. Insert the data into the respective tables, handling any data type conversions if necessary.
+
+5. Ensure data integrity by checking for foreign key relationships (e.g., customer_id in orders must exist in customers).
+
+6. Use Python's sqlite3 module for database operations and pandas or csv module for reading CSV files.
+
+7. Include error handling for file reading and database operations.
+
+8. Print progress messages and final confirmation of successful ingestion."
